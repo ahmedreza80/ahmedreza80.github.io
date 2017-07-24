@@ -469,7 +469,7 @@ section.service-agileinfo img.img-responsive {
 /*-- specialities --*/
 section.special-w3ls {
 	padding:100px 0;
-	background:url(../assets/mages/special.jpg) no-repeat;
+	background:url(../assets/images/special.jpg) no-repeat;
 	background-position:center;
 	background-attachment:fixed;
 	background-size:100% 100%;
@@ -638,7 +638,7 @@ section.info-agileinfo .agileits-w3layouts {
 	padding: 87px 20px;
 }
 section.info-agileinfo .info-agile1,section.info-agileinfo .info-agile2,section.info-agileinfo .info-agile3 {
-    background:url(../im/assetsages/info-pic.jpg) no-repeat;
+    background:url(../assets/images/info-pic.jpg) no-repeat;
 	background-position:center;
 	background-attachment:fixed;
 	background-size:100% 100%;
@@ -663,7 +663,7 @@ section.info-agileinfo .info-agile1:hover .agileits-w3layouts p,section.info-agi
 	color:#fff;
 }
 section.info-agileinfo .info-agile1:hover,section.info-agileinfo .info-agile2:hover,section.info-agileinfo .info-agile3:hover {
-    background:url(../ima/assetsges/info-pic2.jpg) no-repeat;
+    background:url(../assets/images/info-pic2.jpg) no-repeat;
 	background-position:center;
 	background-size:100% 100%;
 	-webkit-background-size:100% 100%;
@@ -675,7 +675,7 @@ section.info-agileinfo .info-agile1:hover,section.info-agileinfo .info-agile2:ho
 /*-- gallery --*/
 section.gallery-w3ls {
 	padding:100px 0;
-	background:url(../i/assetsmages/gallery.jpg) no-repeat;
+	background:url(../assets/images/gallery.jpg) no-repeat;
 	background-position:center;
 	background-attachment:fixed;
 	background-size:100% 100%;
@@ -707,7 +707,7 @@ section.team-w3ls h3.text-center {
 }
 section.team-w3ls .team-agileits {
 	padding: 25px 0;
-	background:url(./assets./images/team.jpg) no-repeat;
+	background:url(../assets/images/team.jpg) no-repeat;
 	background-position:center;
 	background-size:100% 100%;
 	-webkit-background-size:100% 100%;
@@ -818,7 +818,7 @@ section.team-w3ls p.team-agile2 {
 /*-- contact --*/
 section.contact-w3ls {
 	padding:100px 0;
-	background:url(../i/assetsmages/contact.jpg) no-repeat;
+	background:url(.../assets/images/contact.jpg) no-repeat;
 	background-position:center;
 	background-attachment:fixed;
 	background-size:100% 100%;
